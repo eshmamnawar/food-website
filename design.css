@@ -1,0 +1,32 @@
+body{
+    font-family:'Secular One', sans-serif; 
+   
+}
+h1{
+    font-size: 50px;
+    padding-right: 200px;
+}
+.change-one{
+    display:flex;
+}
+.change-three{
+    width: ;
+    padding-top: 100px;
+    padding-right: 200px;
+}
+span{
+    color:green;
+}
+.change-two{
+    text-align: justify;
+    padding-top: 240px;
+    padding-left:170px;
+    font-size: 200px;
+    color: rgb(255, 81, 0);
+    
+}
+p{
+    font-size:18px;
+    width: 100%;
+    color: black;
+}
