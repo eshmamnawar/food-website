@@ -12,7 +12,7 @@ h1{
 .change-three{
   
     padding-top: 100px;
-    padding-right: 200px;
+    
 }
 span{
     color:green;
@@ -20,7 +20,7 @@ span{
 .change-two{
     text-align: justify;
     padding-top: 240px;
-    padding-left:170px;
+    padding-left:100px;
     font-size: 200px;
     color: rgb(255, 81, 0);
     
@@ -33,9 +33,12 @@ p{
     color: rgb(255, 255, 255);
      background-color: rgb(184, 0, 0);
     text-decoration: none;
-    padding: 5px 15px;
+    padding: 10px 20px;
     border-radius: 25px;
 }
 a{
     font-size: 25px;
+}
+.change-size{
+    width: 100%;
 }
