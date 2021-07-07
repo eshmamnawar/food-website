@@ -3,42 +3,38 @@ body{
    
 }
 h1{
-    font-size: 50px;
-    padding-right: 200px;
+    font-size: 60px;
+   
 }
 .change-one{
     display:flex;
 }
 .change-three{
-  
     padding-top: 100px;
-    
+    padding-right: 100px;
+}
+.change-two{
+    text-align: justify;
+    padding-top: 200px;
+    padding-left: 150px;
+    font-size: 20px;
+    color: rgb(255,81,0);
 }
 span{
     color:green;
 }
-.change-two{
-    text-align: justify;
-    padding-top: 240px;
-    padding-left:100px;
-    font-size: 200px;
-    color: rgb(255, 81, 0);
-    
-}
 p{
-    font-size:17px;
-    color: rgb(0, 0, 0);
+    font-size: 20px;
+    color: black;
+    padding-bottom: 50px;
 }
 .link-button{
     color: rgb(255, 255, 255);
-     background-color: rgb(184, 0, 0);
+    background-color: rgb(230, 0, 0);
     text-decoration: none;
     padding: 10px 20px;
     border-radius: 25px;
 }
 a{
-    font-size: 25px;
-}
-.change-size{
-    width: 100%;
+    font: 20px;
 }
