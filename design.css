@@ -10,7 +10,7 @@ h1{
     display:flex;
 }
 .change-three{
-    width: ;
+  
     padding-top: 100px;
     padding-right: 200px;
 }
@@ -26,7 +26,16 @@ span{
     
 }
 p{
-    font-size:18px;
-    width: 100%;
-    color: black;
+    font-size:17px;
+    color: rgb(0, 0, 0);
+}
+.link-button{
+    color: rgb(255, 255, 255);
+     background-color: rgb(184, 0, 0);
+    text-decoration: none;
+    padding: 5px 15px;
+    border-radius: 25px;
+}
+a{
+    font-size: 25px;
 }
