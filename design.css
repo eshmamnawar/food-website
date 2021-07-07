@@ -127,9 +127,12 @@ a{
 }  
 footer{
     text-align: center;
-    background-color: rgb(253, 90, 71);
-    padding-top: 10px;
-    padding-bottom: 10pxs;
-    
+    background-color: rgb(86, 24, 255);
+    padding-top: 1px;
+    padding-bottom: 15px;
+}
+footer h5{
+    color: rgb(255, 254, 241);
+    font-size: 15px;
 }
 
